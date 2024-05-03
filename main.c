@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#include <stdlib.h>
 void main() {
     char operacao;
     float num1, num2, resultado;
@@ -33,6 +33,7 @@ void main() {
                 return; 
             }
             break;
+        
         default:
             printf("Operacao invalida!\n");
             return; 
