@@ -39,6 +39,6 @@ void main() {
             return; 
     }
 
-    // Exibir o resultado
+   
     printf("Resultado: %.2f\n", resultado);
 }
